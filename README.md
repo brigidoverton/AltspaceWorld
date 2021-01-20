@@ -1,2 +1,2 @@
 # AltspaceWorld
-Altspace world building world
+Altspace world building 
